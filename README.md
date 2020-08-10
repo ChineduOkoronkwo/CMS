@@ -11,4 +11,4 @@ The technology stack for this project are:
 4. MSSQL Server as the database.
 
 Approach:
-The approach is to follow the course content and complete this project as quickly as possible. After that, I will come back to redesign the project, employing different design patterns as need be and using the SOLID principles to achieve total decoupling. Next, will be to convert the Web APIs into a micro service.
+The approach is to follow the course content and complete this project as quickly as possible. After that, I will come back to redesign the project, employing different design patterns as need be and using the SOLID principles to achieve total decoupling. Next, will be to convert the Web APIs into a microservices.
